@@ -34,4 +34,6 @@ This repository contains a list of Developer Groups in Kenya. The aim is to have
 
 ### University Tech Groups
 
+   * [Computer Society of Kimathi(CSOK)](#) - Dedan Kimathi University of Technology
+
 ### Google Developer Groups
