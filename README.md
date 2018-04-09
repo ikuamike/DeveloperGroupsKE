@@ -4,22 +4,34 @@ This repository contains a list of Developer Groups in Kenya. The aim is to have
 
 ## Contents
 
-* Python Groups
+* [Python Groups](#)
 
-   * Django
+   * [Django](#)
 
-   * Machine Learning
+   * [Machine Learning](#)
 
-* JavaScript Groups
+* [JavaScript Groups](#)
    
-   * ReactJS
+   * [ReactJS](#)
 
-* Hardware Groups
+* [Hardware Groups](#)
 
-   * Intel
+   * [Intel](#)
 
-   * Arduino
+   * [Arduino](#)
 
-* University Tech Groups
+* [University Tech Groups](#)
 
-* Google Developer Groups
+* [Google Developer Groups](#)
+
+## Python Groups
+
+* [Python KE](#)
+
+## JavaScript Groups
+
+## Hardware Groups
+
+## University Tech Groups
+
+## Google Developer Groups
