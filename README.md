@@ -24,14 +24,14 @@ This repository contains a list of Developer Groups in Kenya. The aim is to have
 
 * [Google Developer Groups](#)
 
-## Python Groups
+### Python Groups
 
 * [Python KE](#)
 
-## JavaScript Groups
+### JavaScript Groups
 
-## Hardware Groups
+### Hardware Groups
 
-## University Tech Groups
+### University Tech Groups
 
-## Google Developer Groups
+### Google Developer Groups
