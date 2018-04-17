@@ -22,18 +22,22 @@ This repository contains a list of Developer Groups in Kenya. The aim is to have
 
 * [University Tech Groups](#)
 
-* [Google Developer Groups](#)
+* [Google Developer Groups (GDG)](#)
 
 ### Python Groups
 
-* [Python KE](#)
+    * [Python KE](#)
 
 ### JavaScript Groups
+
+    * [NairobiJS](#)
 
 ### Hardware Groups
 
 ### University Tech Groups
 
-   * [Computer Society of Kimathi (CSOK)](https://github.com/ikuamike/DeveloperGroupsKE/blob/master/University_Tech_Groups/Computer_Society_of_Kimathi.MD) - Dedan Kimathi University of Technology
+    * [Computer Society of Kimathi (CSOK)](https://github.com/ikuamike/DeveloperGroupsKE/blob/master/University_Tech_Groups/Computer_Society_of_Kimathi.MD) - Dedan Kimathi University of Technology
 
 ### Google Developer Groups
+
+    * [GDG Kimathi University](#)
