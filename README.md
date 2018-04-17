@@ -4,7 +4,7 @@ This repository contains a list of Developer Groups in Kenya. The aim is to have
 
 ## Contents
 
-* [Python Groups](#Python-Groups)
+* [Python Groups](#python-groups)
 
   * [Django](#)
 
